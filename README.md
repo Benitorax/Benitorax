@@ -1,16 +1,22 @@
-### Hi there 👋
+## Developer Web
 
-<!--
-**Benitorax/Benitorax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Back-end
+- Language: PHP
+- Framework: Symfony
 
-Here are some ideas to get you started:
+### Frond-end
+- Language: JavaScript
+- Framework: ReactJS, VueJS, Angular
+- Other: Symfony UX (Stimulus, Turbo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories
+
+### ocproject5
+
+While creating the blog I have developed a tiny framework to manage controller, routing, renderer, container, event, request, response, session, security, form validation, etc.
+
+### pokemon-old
+
+I have developed a game where we can catch pokemons, battle against another trainer or exchange pokemon with another user.
+  
+It was my first project. So today I may organise my classes / services differently. I don't refactor it because if I have to then I want to make something completely different for the front, the back and functionalities.
